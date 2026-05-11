@@ -1,7 +1,7 @@
 let hyenaImg;
 const HW = 350;
 const HH = 315;
-let alphaValue = 175;
+let alphaValue = 200;
 let textBuffer;
 
 function preload() {
