@@ -1,11 +1,36 @@
+html{
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 100%;
+   
+
+}
+
+#homepage{
+    padding-top: 10%;
+    font-size: x-large;
+
+}
+
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+}
+
 
 body{
-    text-align: center;
-    font-family: monospace;    
-    background-color: hotpink;
+    margin: auto;
+    padding: 0;
+    background-color: deeppink;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
     
 }
 
-p{
-    padding: 50%;
+canvas{
+    display: block;
+    margin: auto;
+    
 }
